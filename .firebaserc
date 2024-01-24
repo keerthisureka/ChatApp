@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chat-app-0909": {
+      "hosting": {
+        "getstream-chat-angular-example": [
+          "chat-app-0909"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chat-app-0909"
+  }
+}

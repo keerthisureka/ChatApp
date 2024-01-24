@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "getstream-chat-angular-example",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
